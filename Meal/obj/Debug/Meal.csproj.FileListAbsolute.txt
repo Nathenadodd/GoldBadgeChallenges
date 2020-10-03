@@ -1,0 +1,6 @@
+C:\Users\nathe\source\repos\GoldBadgeChallenges\Meal\bin\Debug\Meal.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\Meal\bin\Debug\Meal.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\Meal\obj\Debug\Meal.csprojAssemblyReference.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\Meal\obj\Debug\Meal.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\Meal\obj\Debug\Meal.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\Meal\obj\Debug\Meal.pdb

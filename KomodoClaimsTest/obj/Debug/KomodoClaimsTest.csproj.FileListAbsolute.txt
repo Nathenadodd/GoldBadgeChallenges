@@ -1,0 +1,16 @@
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\KomodoClaimsTest.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\KomodoClaimsTest.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\obj\Debug\KomodoClaimsTest.csprojAssemblyReference.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\obj\Debug\KomodoClaimsTest.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\obj\Debug\KomodoClaimsTest.csproj.CopyComplete
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\obj\Debug\KomodoClaimsTest.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\obj\Debug\KomodoClaimsTest.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\KomodoClaimsRepo.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsTest\bin\Debug\KomodoClaimsRepo.pdb

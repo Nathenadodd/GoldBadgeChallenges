@@ -1,0 +1,5 @@
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsRepo\bin\Debug\KomodoClaimsRepo.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsRepo\bin\Debug\KomodoClaimsRepo.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsRepo\obj\Debug\KomodoClaimsRepo.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsRepo\obj\Debug\KomodoClaimsRepo.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\KomodoClaimsRepo\obj\Debug\KomodoClaimsRepo.pdb

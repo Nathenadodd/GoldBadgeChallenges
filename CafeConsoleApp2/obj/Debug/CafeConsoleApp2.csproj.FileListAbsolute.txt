@@ -1,0 +1,10 @@
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\obj\Debug\CafeConsoleApp2.csprojAssemblyReference.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\obj\Debug\CafeConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\bin\Debug\CafeConsoleApp2.exe.config
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\bin\Debug\CafeConsoleApp2.exe
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\bin\Debug\CafeConsoleApp2.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\bin\Debug\CafeRepository2.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\bin\Debug\CafeRepository2.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\obj\Debug\CafeConsoleApp2.csproj.CopyComplete
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\obj\Debug\CafeConsoleApp2.exe
+C:\Users\nathe\source\repos\GoldBadgeChallenges\CafeConsoleApp2\obj\Debug\CafeConsoleApp2.pdb
