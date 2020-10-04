@@ -10,18 +10,14 @@ namespace BadgesRepo
     {
         
         public int BadgeID { get; set; }
-        public string DoorAccess { get; set; }
-        public string DeveloperTeamA { get; set; }
-        public string Master { get; set; }
-
+        public List<string> DoorAccess { get; set; }
+        
         public Badge() { }
-        public Badge(  int badgeID, string doorAccess, string developerTeamA, string master) 
+        public Badge (int badgeID, List<string> doorAccess) 
         {
             BadgeID = badgeID;
             DoorAccess = doorAccess;
-            DeveloperTeamA = developerTeamA;
-            Master = master;
-
+            
         }
 
 
