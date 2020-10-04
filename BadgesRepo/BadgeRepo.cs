@@ -7,11 +7,24 @@ using System.Threading.Tasks;
 namespace BadgesRepo
 {
     public class BadgeRepo
-    {//Create a dictionary of badges
+    {
+        
+        private List<Master> _masterlist = new List<Master>();
+
+        //Create a dictionary of badges
+        Dictionary<string, Badge> Badges = new Dictionary<string, Badge>
+        {
+            { "12345", 12345 },
+            { "22345", 22345 },
+            { "32345", 32345 },
+
+        };
+        public static Badge 
         //key for the dictionary will be the BadgeID
         //the valuefor the dictionary will be the badge
 
-        //create a new badge
+        //create a new badge public Badge(  int badgeID, string doorAccess, string developerTeamA, string master) 
+        new public Badge()
         //update doors on existing badge
         //delete all doors from an existing badge
         //show a list with all badge numbers and door access
