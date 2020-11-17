@@ -1,0 +1,10 @@
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\obj\Debug\BadgesConsole.csprojAssemblyReference.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\obj\Debug\BadgesConsole.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\bin\Debug\BadgesConsole.exe.config
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\bin\Debug\BadgesConsole.exe
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\bin\Debug\BadgesConsole.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\bin\Debug\BadgesRepo.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\bin\Debug\BadgesRepo.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\obj\Debug\BadgesConsole.csproj.CopyComplete
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\obj\Debug\BadgesConsole.exe
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesConsole\obj\Debug\BadgesConsole.pdb

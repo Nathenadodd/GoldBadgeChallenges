@@ -1,0 +1,6 @@
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesRepo\bin\Debug\BadgesRepo.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesRepo\bin\Debug\BadgesRepo.pdb
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesRepo\obj\Debug\BadgesRepo.csprojAssemblyReference.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesRepo\obj\Debug\BadgesRepo.csproj.CoreCompileInputs.cache
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesRepo\obj\Debug\BadgesRepo.dll
+C:\Users\nathe\source\repos\GoldBadgeChallenges\BadgesRepo\obj\Debug\BadgesRepo.pdb

@@ -17,7 +17,7 @@ namespace BadgesConsole
         public void Run()
         {
             //SeedContentList();
-            // MenuCommand();
+             Menu();
         }
         //Menu
         private void Menu()
@@ -42,11 +42,11 @@ namespace BadgesConsole
                         break;
                     case "2":
                         //EditABadge
-                        EditABadge();
+                       // EditABadge();
                         break;
                     case "3":
                         //ListAllBadges
-                        ListAllBadges();
+                       // ListAllBadges();
                         break;
 
                     case "4":
